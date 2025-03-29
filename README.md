@@ -1,3 +1,5 @@
+📊 Microsoft 365 Mailbox Report com Licenças
+
 Gere um relatório completo das caixas de correio do Exchange Online com informações sobre:
 
 Nome e UPN do usuário
