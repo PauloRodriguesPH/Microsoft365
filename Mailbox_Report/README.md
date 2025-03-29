@@ -25,7 +25,7 @@ Install-Module ExchangeOnlineManagement -Scope CurrentUser
 Install-Module Microsoft.Graph.Users -Scope CurrentUser
 ```
 
-- Importação dos módulos (necessário sempre que fechar o PowerShell):
+- Importação dos módulos (necessário sempre na primeira execução do PowerShell):
 
 ```powershell
 Import-Module ExchangeOnlineManagement
