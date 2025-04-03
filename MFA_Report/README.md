@@ -14,7 +14,7 @@ O resultado é exportado automaticamente em CSV para a área de trabalho do usu�
 
 ## ✅ Requisitos
 
-- PowerShell 5 ou superior  
+- PowerShell 5 (não funciona no PowerShell 7)  
   💡 *Recomenda-se o uso do PowerShell 5 **em console** (não ISE), especialmente se sua conta exigir MFA.*
 
 - Módulo MSOnline instalado:
@@ -70,3 +70,11 @@ Será aberta uma janela de login.
 
 🚨 **Importante:**  
 Este script utiliza o módulo **MSOnline**, que é legado. Embora ainda funcional, a Microsoft recomenda a migração futura para os módulos do Microsoft Graph.
+
+---
+
+## 🛠️ Autor
+
+**Paulo Henrique Rodrigues**  
+📅 Março/2025
+
