@@ -7,7 +7,7 @@ Listar os usuários do tipo `UserMailbox` (com licença) e retornar a política 
 
 ## 📎 Requisitos
 
-- Windows com **PowerShell 7** (https://github.com/PowerShell/PowerShell/releases)
+- Windows com **PowerShell 7** → [https://aka.ms/powershell](https://aka.ms/powershell)
 - Módulo ExchangeOnlineManagement instalado:
   ```powershell
   Install-Module ExchangeOnlineManagement
@@ -36,3 +36,11 @@ Connect-ExchangeOnline
 | Renata Souza  | renata@empresa.com.br  | Default 6 month move to archive |
 | Carlos Silva  | carlos@empresa.com.br  | Personal 1 year delete           |
 | Marina Alves  | marina@empresa.com.br  |                                  |
+
+---
+
+## 🛠️ Autor
+
+**Paulo Henrique Rodrigues**  
+📅 Março/2025
+
