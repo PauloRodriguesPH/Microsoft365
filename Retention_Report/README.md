@@ -1,6 +1,6 @@
 # 📋 Retention Report – Exchange Online
 
-Este script PowerShell gera um relatório com todos os usuários licenciados do Exchange Online e exibe qual política de retenção está aplicada em cada caixa de correio.
+Este script PowerShell gera um relatório com todos os usuários licenciados do Exchange Online e exibe qual política de retenção de MRM está aplicada em cada caixa de correio.
 
 ## ✅ Objetivo
 Listar os usuários do tipo `UserMailbox` (com licença) e retornar a política de retenção atribuída, exportando para um CSV.
