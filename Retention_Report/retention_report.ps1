@@ -3,7 +3,7 @@
     Autor:      Paulo Henrique Rodrigues
     Data:       03/04/2025
     Requisitos: PowerShell 7+ com módulo ExchangeOnlineManagement
-    Objetivo:   Listar usuários licenciados e suas políticas de retenção no Exchange Online
+    Objetivo:   Listar usuários licenciados e suas políticas de retenção de MRM no Exchange Online
 #>
 
 # Horário de início
