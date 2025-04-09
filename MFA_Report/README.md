@@ -71,6 +71,9 @@ Será aberta uma janela de login.
 🚨 **Importante:**  
 Este script utiliza o módulo **MSOnline**, que é legado. Embora ainda funcional, a Microsoft recomenda a migração futura para os módulos do Microsoft Graph.
 
+Este relatório verifica o status de MFA baseado na propriedade StrongAuthenticationMethods, que indica se o MFA foi habilitado manualmente por usuário.
+Ele não detecta MFA exigido por políticas de Acesso Condicional (Conditional Access).
+Portanto, um usuário pode estar “Sem MFA” neste relatório, mas ainda assim ser obrigado a usá-lo no login por política global da empresa.
 ---
 
 ## 🛠️ Autor
