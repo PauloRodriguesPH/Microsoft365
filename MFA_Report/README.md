@@ -72,7 +72,8 @@ Será aberta uma janela de login.
 Este script utiliza o módulo **MSOnline**, que é legado. Embora ainda funcional, a Microsoft recomenda a migração futura para os módulos do Microsoft Graph.
 
 Este relatório considera apenas o MFA habilitado manualmente por usuário (`StrongAuthenticationMethods`).  
-Ele **não detecta MFA aplicado por políticas de Acesso Condicional (Conditional Access)**, recurso disponível apenas em planos com Entra ID P1 ou superior.
+Ele **não detecta MFA aplicado por políticas de Acesso Condicional (Conditional Access)**, como aquelas configuradas para exigir MFA globalmente para todos os usuários.  
+Portanto, um usuário pode aparecer como “Sem MFA” neste relatório e ainda assim ser obrigado a usar MFA no login, dependendo da configuração do tenant.
 
 ---
 
