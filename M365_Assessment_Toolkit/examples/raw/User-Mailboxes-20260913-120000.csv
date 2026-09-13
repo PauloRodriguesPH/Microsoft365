@@ -1,0 +1,4 @@
+﻿Id,DisplayName,UserPrincipalName,RecipientTypeDetails,PrimarySmtpAddress,ArchiveStatus,LitigationHoldEnabled
+m1,Ana Souza,ana.silva@tenant.onmicrosoft.com,UserMailbox,ana@empresa.exemplo,,False
+m2,Bruno Lima,bruno.lima@tenant.onmicrosoft.com,UserMailbox,bruno@empresa.exemplo,,False
+m3,Felipe Admin,felipe.admin@tenant.onmicrosoft.com,UserMailbox,felipe@empresa.exemplo,,False

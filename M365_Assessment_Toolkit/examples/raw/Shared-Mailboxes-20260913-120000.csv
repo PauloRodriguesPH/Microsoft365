@@ -1,0 +1,3 @@
+﻿Id,DisplayName,UserPrincipalName,RecipientTypeDetails,PrimarySmtpAddress
+m4,Financeiro,financeiro@tenant.onmicrosoft.com,SharedMailbox,financeiro@empresa.exemplo
+m5,Suporte,suporte@tenant.onmicrosoft.com,SharedMailbox,suporte@empresa.exemplo

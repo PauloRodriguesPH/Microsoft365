@@ -1,0 +1,4 @@
+﻿Id,DisplayName,IsMicrosoft365Group,OwnerCount,MemberCount,IsTeam
+g1,Financeiro,True,1,5,False
+g2,TI,True,0,3,True
+g3,Legado,False,0,0,False

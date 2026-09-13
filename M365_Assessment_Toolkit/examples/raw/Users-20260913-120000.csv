@@ -1,0 +1,7 @@
+﻿Id,DisplayName,UserPrincipalName,AccountEnabled,UserType,CreatedDateTime,LastSignInDateTime,LastNonInteractiveSignInDateTime,Mail,JobTitle,Department,AssignedLicenseCount
+u1,Ana Souza,ana.silva@tenant.onmicrosoft.com,True,Member,2025-01-10T10:00:00Z,2026-09-12T13:00:00Z,,ana@empresa.exemplo,Analista,Financeiro,1
+u2,Bruno Lima,bruno.lima@tenant.onmicrosoft.com,True,Member,2025-02-10T10:00:00Z,2026-09-11T15:00:00Z,,bruno@empresa.exemplo,Gerente,TI,1
+u3,Carla Dias,carla.dias@tenant.onmicrosoft.com,True,Member,2025-03-10T10:00:00Z,,,,Assistente,RH,0
+u4,Diego Costa,diego.costa@tenant.onmicrosoft.com,False,Member,2024-05-10T10:00:00Z,,,,Ex-funcionário,,0
+u5,Eve Guest,eve_guest@tenant.onmicrosoft.com,True,Guest,2025-06-10T10:00:00Z,2026-08-30T15:00:00Z,,,Convidado,,0
+u6,Felipe Admin,felipe.admin@tenant.onmicrosoft.com,True,Member,2024-02-10T10:00:00Z,2026-09-13T10:00:00Z,,felipe@empresa.exemplo,Administrador,TI,1

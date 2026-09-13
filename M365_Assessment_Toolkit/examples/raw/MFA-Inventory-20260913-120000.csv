@@ -1,0 +1,7 @@
+﻿UserPrincipalName,AuthenticationMethods,MfaMethodStatus,MfaCapableMethodCount
+ana.silva@tenant.onmicrosoft.com,Microsoft Authenticator,Capable,1
+bruno.lima@tenant.onmicrosoft.com,FIDO2,Capable,1
+carla.dias@tenant.onmicrosoft.com,,Not identified,0
+diego.costa@tenant.onmicrosoft.com,,Not identified,0
+eve_guest@tenant.onmicrosoft.com,,Not identified,0
+felipe.admin@tenant.onmicrosoft.com,Microsoft Authenticator,Capable,1

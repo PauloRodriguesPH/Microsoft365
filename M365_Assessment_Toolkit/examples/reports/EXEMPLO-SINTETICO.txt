@@ -1,0 +1,1 @@
+Os arquivos desta pasta foram gerados com dados fictícios para demonstração. Não representam nenhum tenant real.
